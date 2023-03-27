@@ -1,0 +1,18 @@
+title: "The Blog"
+author: "<>"
+email: "<>"
+description: ""
+baseurl: ""
+url: "https://blog.justindeehoffman.com"
+permalink: /:title/
+twitter_username: pfxn
+github_username:  
+
+plugins:
+  - "jekyll-paginate"
+
+paginate: 10
+markdown: kramdown
+
+kramdown:
+  input: GFM
